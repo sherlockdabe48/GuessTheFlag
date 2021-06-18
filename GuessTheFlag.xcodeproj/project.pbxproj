@@ -41,6 +41,7 @@
 		9E34090C267C576D00AC034E = {
 			isa = PBXGroup;
 			children = (
+				9E34092E267C96C100AC034E /* README.md */,
 				9E340917267C576D00AC034E /* GuessTheFlag */,
 				9E340916267C576D00AC034E /* Products */,
 			);
@@ -60,7 +61,6 @@
 				9E340918267C576D00AC034E /* AppDelegate.swift */,
 				9E34091A267C576D00AC034E /* SceneDelegate.swift */,
 				9E34091C267C576D00AC034E /* ContentView.swift */,
-				9E34092E267C96C100AC034E /* README.md */,
 				9E34091E267C576F00AC034E /* Assets.xcassets */,
 				9E340923267C576F00AC034E /* LaunchScreen.storyboard */,
 				9E340926267C576F00AC034E /* Info.plist */,
